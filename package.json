@@ -4,6 +4,7 @@
     "description": "A pack of useful extensions for vscode",
     "version": "0.0.1",
     "publisher": "zer0",
+    "repository": "https://github.com/Zer0112/general-programming-pack.git",
     "engines": {
         "vscode": "^1.49.0"
     },
@@ -14,7 +15,6 @@
         "aaron-bond.better-comments",
         "alefragnani.project-manager",
         "astallinger.sourcetrail",
-        "atishay-jain.all-autocomplete",
         "bmewburn.vscode-intelephense-client",
         "christian-kohler.path-intellisense",
         "codezombiech.gitignore",
