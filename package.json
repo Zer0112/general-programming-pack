@@ -1,0 +1,42 @@
+{
+    "name": "general-programming-pack",
+    "displayName": "General Programming Pack",
+    "description": "A pack of useful extensions for vscode",
+    "version": "0.0.1",
+    "publisher": "zer0",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "alefragnani.project-manager",
+        "astallinger.sourcetrail",
+        "atishay-jain.all-autocomplete",
+        "bmewburn.vscode-intelephense-client",
+        "christian-kohler.path-intellisense",
+        "codezombiech.gitignore",
+        "coenraads.bracket-pair-colorizer-2",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "formulahendry.code-runner",
+        "github.vscode-pull-request-github",
+        "gruntfuggly.todo-tree",
+        "hbenl.vscode-test-explorer",
+        "mhutchie.git-graph",
+        "oderwat.indent-rainbow",
+        "pflannery.vscode-versionlens",
+        "pnp.polacode",
+        "rafamel.subtle-brackets",
+        "redvanworkshop.explorer-exclude-vscode-extension",
+        "shd101wyy.markdown-preview-enhanced",
+        "spmeesseman.vscode-taskexplorer",
+        "streetsidesoftware.code-spell-checker",
+        "tabnine.tabnine-vscode",
+        "uloco.theme-bluloco-dark",
+        "usernamehw.errorlens",
+        "yzhang.markdown-all-in-one"
+    ]
+}
