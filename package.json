@@ -3,7 +3,7 @@
     "displayName": "General Programming Pack",
     "description": "A pack of useful extensions for vscode",
     "version": "0.0.1",
-    "publisher": "zer0",
+    "publisher": "Zer0",
     "repository": "https://github.com/Zer0112/general-programming-pack.git",
     "engines": {
         "vscode": "^1.49.0"
